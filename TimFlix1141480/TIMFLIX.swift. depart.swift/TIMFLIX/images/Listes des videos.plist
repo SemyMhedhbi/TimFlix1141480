@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>titre</key>
+		<string>Pirates du cyberspace</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1995</string>
+		<key>description</key>
+		<string>L&apos;utilisation des ordinateurs lui étant bannie pour des années, un ex-enfant prodige replonge dans le monde du crime informatique avec trois autres pirates.</string>
+		<key>cote</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Star trek: The Next Generation </string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-007.jpg</string>
+		<key>annee</key>
+		<string>1987</string>
+		<key>description</key>
+		<string>In the year 2364, Capt. Jean-Luc Picard leads the new Enterprise on missions of discovery. First Officer William Riker, engineer Geordi La Forge, and Klingon crewmember Worf join Picard as they explore the universe and interact with alien species.</string>
+		<key>cote</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>The Young Victoria</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-002.jpg</string>
+		<key>annee</key>
+		<string>2009</string>
+		<key>description</key>
+		<string>Eighteen-year-old British royal Victoria ascends to the throne and is romanced by future husband Prince Albert in this lush period film.</string>
+		<key>cote</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Planète 51</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-003.jpg</string>
+		<key>annee</key>
+		<string>2009</string>
+		<key>description</key>
+		<string>Sur une planète lointaine, des extraterrestres tranquilles voient soudain atterrir un étrange vaisseau, duquel sort un personnage encore plus étrange. Sur le vaisseau, seul le mot Nasa y est écrit. Croyant arriver sur une planète sans vie, l&apos;astronaute y plante le drapeau américain avant de se rendre compte qu&apos;elle est habitée.</string>
+		<key>cote</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Law Abiding Citizen</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-004.jpg</string>
+		<key>annee</key>
+		<string>2009</string>
+		<key>description</key>
+		<string>Traumatized by the atrocious murders of his wife and daughter -- and the flawed justice system that set the killers free -- Clyde Shelton gives in to his rage and sets out on a course of vengeance.</string>
+		<key>cote</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Cedar Rapids</string>
+		<key>duree</key>
+		<string>1 h 26 m</string>
+		<key>classement</key>
+		<string>14A</string>
+		<key>pochette</key>
+		<string>netflix-005.jpg</string>
+		<key>annee</key>
+		<string>2011</string>
+		<key>description</key>
+		<string>Terrified of leaving his tiny town for the first time, sheltered insurance salesman Tim nervously sets out for the bright lights of bustling Cedar Rapids, where he attends a chaotic insurance convention and learns how to survive in the real world.</string>
+		<key>cote</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Numb3rs</string>
+		<key>duree</key>
+		<string>43 m</string>
+		<key>classement</key>
+		<string>TV-14</string>
+		<key>pochette</key>
+		<string>netflix-006.jpg</string>
+		<key>annee</key>
+		<string>2004</string>
+		<key>description</key>
+		<string>Real-life brothers Ridley and Tony Scott serve as producers of this crime drama about two brothers -- Don Eppes, a veteran FBI agent, and Charlie Eppes, a genius mathematician -- who pool their divergent skills to crack cases.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Jo Pour Jonathan</string>
+		<key>duree</key>
+		<string>1 h 18 m</string>
+		<key>classement</key>
+		<string>14A</string>
+		<key>pochette</key>
+		<string>netflix-070.jpg</string>
+		<key>annee</key>
+		<string>2010</string>
+		<key>description</key>
+		<string>Lorsque son frère meurt dans un accident, un adolescent doit décider s&apos;il veut adopter la vie nihiliste qui a eu raison de son frère ou tracer son propre chemin.</string>
+		<key>cote</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Life Unexpected</string>
+		<key>duree</key>
+		<string>43 m</string>
+		<key>classement</key>
+		<string>PG</string>
+		<key>pochette</key>
+		<string>netflix-008.jpg</string>
+		<key>annee</key>
+		<string>2010</string>
+		<key>description</key>
+		<string>Given up at birth and shuffled from one foster home to the next, 16-year-old Lux decides to strike out on her own. But when she tracks down her real parents to authorize her emancipation, the teen lands in their joint custody instead.</string>
+		<key>cote</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Outcasts</string>
+		<key>duree</key>
+		<string>48 m</string>
+		<key>classement</key>
+		<string>14A</string>
+		<key>pochette</key>
+		<string>netflix-009.jpg</string>
+		<key>annee</key>
+		<string>2011</string>
+		<key>description</key>
+		<string>Set in 2040, this BBC sci-fi drama focuses on the residents of the frontier town of Forthaven on the planet Carpathia -- a region colonized by a hardy group of settlers who rocketed away from Earth in the wake of war and nuclear devastation.</string>
+		<key>cote</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Torchwood</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>14+</string>
+		<key>pochette</key>
+		<string>netflix-010.jpg</string>
+		<key>annee</key>
+		<string>2006</string>
+		<key>description</key>
+		<string>A spinoff from the long-running &quot;Doctor Who,&quot; this wild sci-fi series chronicles the exploits of the mysterious Capt. Jack Harkness, who leads the Torchwood Institute team in the fight against hostile alien life forms.</string>
+		<key>cote</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-011.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-012.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-013.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-014.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-015.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-016.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-017.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-018.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-019.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-020.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-021.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-022.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-023.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-024.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-025.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-026.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-027.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-028.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-029.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-030.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-031.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-032.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-033.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-034.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-035.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-036.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-037.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-038.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-039.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-040.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-041.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-042.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-043.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-044.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-045.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-046.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-047.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-048.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-049.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-050.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-051.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-052.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-053.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-054.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-055.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-056.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-057.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-058.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-059.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-060.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>titre</key>
+		<string>Nom de la vidéo</string>
+		<key>duree</key>
+		<string>1 h 48 m</string>
+		<key>classement</key>
+		<string>18A</string>
+		<key>pochette</key>
+		<string>netflix-000.jpg</string>
+		<key>annee</key>
+		<string>1900</string>
+		<key>description</key>
+		<string>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+		<key>cote</key>
+		<string>5</string>
+	</dict>
+</array>
+</plist>
