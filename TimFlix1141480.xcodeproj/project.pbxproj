@@ -1,0 +1,424 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ECFDA7251BC6D5C000587D86 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECFDA7241BC6D5C000587D86 /* AppDelegate.swift */; };
+		ECFDA7271BC6D5C000587D86 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECFDA7261BC6D5C000587D86 /* ViewController.swift */; };
+		ECFDA72A1BC6D5C000587D86 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECFDA7281BC6D5C000587D86 /* Main.storyboard */; };
+		ECFDA72C1BC6D5C000587D86 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECFDA72B1BC6D5C000587D86 /* Images.xcassets */; };
+		ECFDA72F1BC6D5C000587D86 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ECFDA72D1BC6D5C000587D86 /* LaunchScreen.xib */; };
+		ECFDA73B1BC6D5C100587D86 /* TimFlix1141480Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECFDA73A1BC6D5C100587D86 /* TimFlix1141480Tests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		ECFDA7351BC6D5C100587D86 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ECFDA7171BC6D5C000587D86 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ECFDA71E1BC6D5C000587D86;
+			remoteInfo = TimFlix1141480;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		ECFDA71F1BC6D5C000587D86 /* TimFlix1141480.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimFlix1141480.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECFDA7231BC6D5C000587D86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECFDA7241BC6D5C000587D86 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		ECFDA7261BC6D5C000587D86 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		ECFDA7291BC6D5C000587D86 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		ECFDA72B1BC6D5C000587D86 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		ECFDA72E1BC6D5C000587D86 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		ECFDA7341BC6D5C100587D86 /* TimFlix1141480Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimFlix1141480Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECFDA7391BC6D5C100587D86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECFDA73A1BC6D5C100587D86 /* TimFlix1141480Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimFlix1141480Tests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ECFDA71C1BC6D5C000587D86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFDA7311BC6D5C100587D86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		ECFDA7161BC6D5C000587D86 = {
+			isa = PBXGroup;
+			children = (
+				ECFDA7211BC6D5C000587D86 /* TimFlix1141480 */,
+				ECFDA7371BC6D5C100587D86 /* TimFlix1141480Tests */,
+				ECFDA7201BC6D5C000587D86 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ECFDA7201BC6D5C000587D86 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ECFDA71F1BC6D5C000587D86 /* TimFlix1141480.app */,
+				ECFDA7341BC6D5C100587D86 /* TimFlix1141480Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ECFDA7211BC6D5C000587D86 /* TimFlix1141480 */ = {
+			isa = PBXGroup;
+			children = (
+				ECFDA7241BC6D5C000587D86 /* AppDelegate.swift */,
+				ECFDA7261BC6D5C000587D86 /* ViewController.swift */,
+				ECFDA7281BC6D5C000587D86 /* Main.storyboard */,
+				ECFDA72B1BC6D5C000587D86 /* Images.xcassets */,
+				ECFDA72D1BC6D5C000587D86 /* LaunchScreen.xib */,
+				ECFDA7221BC6D5C000587D86 /* Supporting Files */,
+			);
+			path = TimFlix1141480;
+			sourceTree = "<group>";
+		};
+		ECFDA7221BC6D5C000587D86 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ECFDA7231BC6D5C000587D86 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ECFDA7371BC6D5C100587D86 /* TimFlix1141480Tests */ = {
+			isa = PBXGroup;
+			children = (
+				ECFDA73A1BC6D5C100587D86 /* TimFlix1141480Tests.swift */,
+				ECFDA7381BC6D5C100587D86 /* Supporting Files */,
+			);
+			path = TimFlix1141480Tests;
+			sourceTree = "<group>";
+		};
+		ECFDA7381BC6D5C100587D86 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ECFDA7391BC6D5C100587D86 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ECFDA71E1BC6D5C000587D86 /* TimFlix1141480 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECFDA73E1BC6D5C100587D86 /* Build configuration list for PBXNativeTarget "TimFlix1141480" */;
+			buildPhases = (
+				ECFDA71B1BC6D5C000587D86 /* Sources */,
+				ECFDA71C1BC6D5C000587D86 /* Frameworks */,
+				ECFDA71D1BC6D5C000587D86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TimFlix1141480;
+			productName = TimFlix1141480;
+			productReference = ECFDA71F1BC6D5C000587D86 /* TimFlix1141480.app */;
+			productType = "com.apple.product-type.application";
+		};
+		ECFDA7331BC6D5C100587D86 /* TimFlix1141480Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECFDA7411BC6D5C100587D86 /* Build configuration list for PBXNativeTarget "TimFlix1141480Tests" */;
+			buildPhases = (
+				ECFDA7301BC6D5C100587D86 /* Sources */,
+				ECFDA7311BC6D5C100587D86 /* Frameworks */,
+				ECFDA7321BC6D5C100587D86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ECFDA7361BC6D5C100587D86 /* PBXTargetDependency */,
+			);
+			name = TimFlix1141480Tests;
+			productName = TimFlix1141480Tests;
+			productReference = ECFDA7341BC6D5C100587D86 /* TimFlix1141480Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ECFDA7171BC6D5C000587D86 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = etudiant;
+				TargetAttributes = {
+					ECFDA71E1BC6D5C000587D86 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					ECFDA7331BC6D5C100587D86 = {
+						CreatedOnToolsVersion = 6.4;
+						TestTargetID = ECFDA71E1BC6D5C000587D86;
+					};
+				};
+			};
+			buildConfigurationList = ECFDA71A1BC6D5C000587D86 /* Build configuration list for PBXProject "TimFlix1141480" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = ECFDA7161BC6D5C000587D86;
+			productRefGroup = ECFDA7201BC6D5C000587D86 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ECFDA71E1BC6D5C000587D86 /* TimFlix1141480 */,
+				ECFDA7331BC6D5C100587D86 /* TimFlix1141480Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ECFDA71D1BC6D5C000587D86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ECFDA72A1BC6D5C000587D86 /* Main.storyboard in Resources */,
+				ECFDA72F1BC6D5C000587D86 /* LaunchScreen.xib in Resources */,
+				ECFDA72C1BC6D5C000587D86 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFDA7321BC6D5C100587D86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ECFDA71B1BC6D5C000587D86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ECFDA7271BC6D5C000587D86 /* ViewController.swift in Sources */,
+				ECFDA7251BC6D5C000587D86 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFDA7301BC6D5C100587D86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ECFDA73B1BC6D5C100587D86 /* TimFlix1141480Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		ECFDA7361BC6D5C100587D86 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ECFDA71E1BC6D5C000587D86 /* TimFlix1141480 */;
+			targetProxy = ECFDA7351BC6D5C100587D86 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		ECFDA7281BC6D5C000587D86 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ECFDA7291BC6D5C000587D86 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		ECFDA72D1BC6D5C000587D86 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ECFDA72E1BC6D5C000587D86 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		ECFDA73C1BC6D5C100587D86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		ECFDA73D1BC6D5C100587D86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ECFDA73F1BC6D5C100587D86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TimFlix1141480/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		ECFDA7401BC6D5C100587D86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TimFlix1141480/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		ECFDA7421BC6D5C100587D86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TimFlix1141480Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TimFlix1141480.app/TimFlix1141480";
+			};
+			name = Debug;
+		};
+		ECFDA7431BC6D5C100587D86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TimFlix1141480Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TimFlix1141480.app/TimFlix1141480";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ECFDA71A1BC6D5C000587D86 /* Build configuration list for PBXProject "TimFlix1141480" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFDA73C1BC6D5C100587D86 /* Debug */,
+				ECFDA73D1BC6D5C100587D86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ECFDA73E1BC6D5C100587D86 /* Build configuration list for PBXNativeTarget "TimFlix1141480" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFDA73F1BC6D5C100587D86 /* Debug */,
+				ECFDA7401BC6D5C100587D86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		ECFDA7411BC6D5C100587D86 /* Build configuration list for PBXNativeTarget "TimFlix1141480Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFDA7421BC6D5C100587D86 /* Debug */,
+				ECFDA7431BC6D5C100587D86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ECFDA7171BC6D5C000587D86 /* Project object */;
+}
